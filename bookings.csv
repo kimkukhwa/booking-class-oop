@@ -1,0 +1,21 @@
+booking_id,guest_name,hotel_name,room_type,booking_date,start_date,end_date,depart_country,destination_country,price,provider,status,commission_rate
+1001,KukHwa Kim,Grand Palace Hotel,Double,2026-09-01,2026-10-15,2026-10-25,Canada,Spain,1250.00,Booking.com,confirmed,
+1002,Sarang Kang,Seaside Resort,Suite,2026-09-10,2026-11-05,2026-11-10,South Korea,Thailand,980.50,Agoda,pending,
+1003,John Smith,Seaside Resort,Double,2026-09-11,2026-11-05,2026-11-10,United States,Thailand,999.99,Expedia,confirmed,0.03
+1004,Minji Park,Hotel Le Germain,King,2026-09-15,2026-12-20,2026-12-27,South Korea,Canada,2140.75,Booking.com,confirmed,0.06
+1005,Lucas Tremblay,Ocean View Inn,Queen,2026-09-20,2026-10-02,2026-10-05,Canada,Portugal,615.00,Hotels.com,confirmed,
+1006,Emma Roy,Hotel Arts Barcelona,Double,2026-08-28,2026-10-08,2026-10-12,Canada,Spain,1480.00,Expedia,cancelled,
+1007,Daniel Lee,Park Hyatt Tokyo,King,2026-09-02,2026-12-01,2026-12-06,Canada,Japan,2650.00,Booking.com,confirmed,
+1008,Sofia Rossi,Hotel Artemide,Single,2026-09-05,2026-10-20,2026-10-23,Italy,Italy,420.00,Booking.com,confirmed,
+1009,Noah Martin,Fairmont Le Chateau Frontenac,Queen,2026-09-12,2026-10-10,2026-10-12,Canada,Canada,760.00,Expedia,pending,
+1010,Yuna Choi,Lotte Hotel Seoul,Double,2026-09-14,2026-11-20,2026-11-24,Canada,South Korea,890.00,Agoda,confirmed,
+1011,Olivia Brown,The Standard London,King,2026-09-15,2026-10-30,2026-11-03,United States,United Kingdom,1320.00,Hotels.com,cancelled,
+1012,Liam Gagnon,Hotel Le Germain,Queen,2026-09-16,2026-10-18,2026-10-20,Canada,Canada,510.00,Booking.com,confirmed,
+1013,Chloe Dubois,Le Meurice,Suite,2026-09-17,2026-12-28,2027-01-02,France,France,4200.00,Expedia,confirmed,0.08
+1014,Ethan Wong,Marina Bay Sands,Double,2026-09-18,2026-11-12,2026-11-16,Canada,Singapore,1640.00,Agoda,confirmed,
+1015,Ava Nguyen,Ocean View Inn,Single,2026-09-19,2026-10-02,2026-10-04,United States,Portugal,380.00,Booking.com,pending,
+1016,Mateo Garcia,Hotel Arts Barcelona,Suite,2026-09-20,2027-01-10,2027-01-15,Mexico,Spain,2250.00,Hotels.com,confirmed,
+1017,Hana Yamamoto,Park Hyatt Tokyo,Double,2026-09-21,2026-10-25,2026-10-28,Japan,Japan,1380.00,Booking.com,cancelled,
+1018,William Clark,Grand Palace Hotel,Single,2026-09-22,2026-11-01,2026-11-04,United Kingdom,Spain,390.00,Expedia,confirmed,
+1019,Jiwoo Han,Lotte Hotel Seoul,Suite,2026-09-23,2026-12-22,2026-12-29,United States,South Korea,2980.00,Agoda,confirmed,0.05
+1020,Grace Wilson,The Standard London,Double,2026-09-24,2026-10-09,2026-10-11,Canada,United Kingdom,640.00,Booking.com,confirmed,
